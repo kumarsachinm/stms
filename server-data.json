@@ -1,0 +1,294 @@
+{
+  "users": [
+    {
+      "id": 1784802180551,
+      "role": "student",
+      "name": "Test Student",
+      "email": "teststudent@example.com",
+      "password": "demo123"
+    },
+    {
+      "id": 1784801759175,
+      "role": "tutor",
+      "name": "Sachin Kumar",
+      "email": "123@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 1784801687754,
+      "role": "student",
+      "name": "Google learner",
+      "email": "google@demo.com",
+      "password": "google-auth"
+    },
+    {
+      "id": 1,
+      "role": "tutor",
+      "name": "Maya Iyer",
+      "email": "maya@demo.com",
+      "password": "demo123"
+    },
+    {
+      "id": 2,
+      "role": "student",
+      "name": "Aarav Mehta",
+      "email": "aarav@demo.com",
+      "password": "demo123"
+    }
+  ],
+  "tutors": [
+    {
+      "id": 1784801759175,
+      "name": "Sachin Kumar",
+      "age": 42,
+      "experience": 20,
+      "subject": "Mathematics",
+      "topics": [
+        "Algebra",
+        "Mensuration"
+      ],
+      "hourlyRate": 300,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 101,
+      "name": "Maya Iyer",
+      "age": 29,
+      "experience": 6,
+      "subject": "Mathematics",
+      "topics": [
+        "Algebra",
+        "Trigonometry",
+        "Calculus"
+      ],
+      "hourlyRate": 300,
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 102,
+      "name": "Ravi Nair",
+      "age": 31,
+      "experience": 8,
+      "subject": "Science",
+      "topics": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ],
+      "hourlyRate": 400,
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 103,
+      "name": "Sneha Joshi",
+      "age": 27,
+      "experience": 4,
+      "subject": "Mathematics",
+      "topics": [
+        "Statistics",
+        "Probability",
+        "Mensuration"
+      ],
+      "hourlyRate": 200,
+      "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 104,
+      "name": "Anirban Sen",
+      "age": 35,
+      "experience": 10,
+      "subject": "Science",
+      "topics": [
+        "Modern Physics",
+        "Electrochemistry",
+        "Human Physiology"
+      ],
+      "hourlyRate": 500,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 105,
+      "name": "Parul Kaur",
+      "age": 26,
+      "experience": 3,
+      "subject": "Mathematics",
+      "topics": [
+        "Geometry",
+        "Algebra",
+        "Vectors"
+      ],
+      "hourlyRate": 250,
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 106,
+      "name": "Devansh Rao",
+      "age": 33,
+      "experience": 7,
+      "subject": "Science",
+      "topics": [
+        "Light",
+        "Electricity",
+        "Motion"
+      ],
+      "hourlyRate": 350,
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 107,
+      "name": "Neha Verma",
+      "age": 30,
+      "experience": 5,
+      "subject": "Mathematics",
+      "topics": [
+        "Number Systems",
+        "Trigonometry",
+        "Statistics"
+      ],
+      "hourlyRate": 300,
+      "photo": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 108,
+      "name": "Karan Malhotra",
+      "age": 32,
+      "experience": 9,
+      "subject": "Science",
+      "topics": [
+        "Chemistry",
+        "Biology",
+        "Thermodynamics"
+      ],
+      "hourlyRate": 450,
+      "photo": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 109,
+      "name": "Ishita Bhatia",
+      "age": 28,
+      "experience": 4,
+      "subject": "Mathematics",
+      "topics": [
+        "Calculus",
+        "Probability",
+        "Algebra"
+      ],
+      "hourlyRate": 280,
+      "photo": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 110,
+      "name": "Omkar Sharma",
+      "age": 34,
+      "experience": 8,
+      "subject": "Science",
+      "topics": [
+        "Physics",
+        "Biology",
+        "Electrochemistry"
+      ],
+      "hourlyRate": 400,
+      "photo": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "students": [
+    {
+      "id": 1784802180551,
+      "name": "Test Student",
+      "classLevel": "10",
+      "topic": "Algebra",
+      "offerRate": 200,
+      "email": "teststudent@example.com",
+      "feePerSubject": 200,
+      "subjects": [
+        "Algebra"
+      ],
+      "amountPaid": 250,
+      "attendance": [
+        {
+          "date": "2026-07-24",
+          "status": "present"
+        }
+      ],
+      "payments": [
+        {
+          "month": "2026-07",
+          "amount": 250,
+          "note": "Recorded from dashboard"
+        }
+      ]
+    },
+    {
+      "id": 1784801687754,
+      "name": "Google learner",
+      "classLevel": "10",
+      "topic": "Algebra",
+      "offerRate": 200,
+      "email": "google@demo.com",
+      "feePerSubject": 200,
+      "subjects": [
+        "Algebra"
+      ],
+      "amountPaid": 0,
+      "attendance": [],
+      "payments": []
+    },
+    {
+      "id": 1,
+      "name": "Aanya Sharma",
+      "classLevel": "10",
+      "topic": "Algebra",
+      "offerRate": 200,
+      "email": "",
+      "feePerSubject": 250,
+      "subjects": [
+        "Mathematics"
+      ],
+      "amountPaid": 0,
+      "attendance": [],
+      "payments": []
+    },
+    {
+      "id": 2,
+      "name": "Rohan Gupta",
+      "classLevel": "10",
+      "topic": "Algebra",
+      "offerRate": 200,
+      "email": "",
+      "feePerSubject": 250,
+      "subjects": [
+        "Mathematics"
+      ],
+      "amountPaid": 0,
+      "attendance": [],
+      "payments": []
+    }
+  ],
+  "bookings": [],
+  "batches": [
+    {
+      "id": 1,
+      "name": "Math-10A",
+      "subject": "Mathematics",
+      "time": "6:00 PM - 7:30 PM",
+      "capacity": 25
+    },
+    {
+      "id": 2,
+      "name": "Science-12B",
+      "subject": "Physics",
+      "time": "7:30 PM - 9:00 PM",
+      "capacity": 20
+    }
+  ],
+  "payments": [
+    {
+      "id": 1,
+      "studentId": 2,
+      "studentName": "Rohan Gupta",
+      "amount": 4000,
+      "date": "2026-07-20",
+      "note": "Monthly fee settlement"
+    }
+  ]
+}
