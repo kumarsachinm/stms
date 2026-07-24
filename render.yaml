@@ -3,6 +3,7 @@ services:
     name: stms-backend
     env: node
     plan: free
+    rootDir: .
     buildCommand: npm install --omit=dev
     startCommand: npm start
     envVars:
